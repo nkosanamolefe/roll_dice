@@ -6,9 +6,6 @@ class GradientContainer extends StatelessWidget {
 
   final List<Color> colors;
 
-
-  void rollDice() {}
-
   @override
   Widget build(BuildContext context) {
     return Container(
